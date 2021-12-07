@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-# [Kalpesh Pawar](https://akash1362000.github.io/)
+# [Kalpesh Pawar](https://kalpesh521.github.io/)
 
 <!--
 **kalpesh521/kalpesh521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
