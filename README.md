@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# [Kalpesh Pawar](https://akash1362000.github.io/)
 
 <!--
 **kalpesh521/kalpesh521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=kalpesh521&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+ 
+  
+## My Github Stats 📊
+|<img src="https://github-readme-stats.vercel.app/api?username=kalpesh521&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalpesh521"/>|
+|---|---|
+---
+
+ ## Most Used Languages 💻
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalpesh521&layout=compact&theme=midnight-purple)](https://github.com/kalpesh521)
+ 
+---  
+![Profile views](https://gpvc.arturio.dev/kalpesh521)
+
+ 
