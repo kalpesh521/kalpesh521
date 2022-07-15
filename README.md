@@ -19,13 +19,14 @@ Here are some ideas to get you started:
  
   
 ## My Github Stats 📊
-|<img src="https://github-readme-stats.vercel.app/api?username=kalpesh521&&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalpesh521"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=kalpesh521&&show_icons=true&count_private=true&theme=algolia&include_all_commits=true&hide_border=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalpesh521&theme=algolia&hide_border=true"/>|
 |---|---|
 ---
-
- ## Most Used Languages 💻
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalpesh521&layout=compact&theme=midnight-purple)](https://github.com/kalpesh521)
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpesh521&show_icons=true&theme=radical&layout=compact&langs_count=30&hide_border=true&card_width=450"><br><br>
+ 
+ 
+</p>
  
 ---  
 ![Profile views](https://gpvc.arturio.dev/kalpesh521)
