@@ -8,12 +8,11 @@
 </h3>
 
 
-<p align="center"> 
-  <samp> 
-    「 I am <b>Cloud and Big Data Enthusiast</b> 」
-   <br>
-  </samp>
-</p>
+<div align="center" style="margin-left:"800px">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&center=true&width=435&lines=Cloud+Enthusiast;Big+Data+Enthusiast;Web+Developer" alt="Typing SVG" /></a>
+     <br>
+</div>
+
 <br>
 <p align="center">
  <a href="https://www.linkedin.com/in/kalpesh521/" target="_blank">
@@ -28,20 +27,7 @@
  
 </p>
  
----
-
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: kalpeshpawar7875@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
-
-</p>
 <br>
-<br/>
- 
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -58,6 +44,8 @@
 ![Material-UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 <br/>
+
+
 
 ## My Github Stats 📊
 |<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalpesh521&theme=algolia&hide_border=true"/>|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalpesh521&theme=algolia&show_icons=true&hide_border=true)|
