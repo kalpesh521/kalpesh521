@@ -3,20 +3,18 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Kalpesh Pawar</a></b>
+                <b> Kalpesh Pawar</b>
         </samp>
 </h3>
 
 
 <p align="center"> 
-  <samp>
-    <br>
+  <samp> 
     「 I am <b>Cloud and Big Data Enthusiast</b> 」
-    <br>
-    <br>
+   <br>
   </samp>
 </p>
-
+<br>
 <p align="center">
  <a href="https://www.linkedin.com/in/kalpesh521/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
@@ -53,7 +51,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
