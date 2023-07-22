@@ -18,7 +18,7 @@
  <a href="https://www.linkedin.com/in/kalpesh521/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
- <a href="https://medium.com/@kalpeshpawar522001/olist-e-commerce-store-big-data-driven-insights-azure-data-pipeline-for-e-commerce-revenue-8306177c193" target="_blank">
+ <a href="https://medium.com/@kalpesh521" target="_blank">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img>
  </a>
  <a href="https://leetcode.com/kalpesh521/" target="_blank">
