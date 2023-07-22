@@ -29,23 +29,13 @@
  
 <br>
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-
-<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=azure,aws&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,django,bootstrap)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,firebase,github,vscode,idea,linux)](https://skillicons.dev)
 
 
+---
 
 ## My Github Stats 📊
 |<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalpesh521&theme=algolia&hide_border=true"/>|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalpesh521&theme=algolia&show_icons=true&hide_border=true)|
@@ -55,6 +45,8 @@
 
 |<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalpesh521&theme=radical"/>|![Kalpesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kalpesh521&show_icons=true&theme=radical&layout=compact&langs_count=30&hide_border=true&card_width=450)|
 |---|---|
+
+---
 
 ![](https://komarev.com/ghpvc/?username=kalpesh521&style=for-the-badge)
  
