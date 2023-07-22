@@ -48,11 +48,21 @@
 ---
 ## Recent Projects
 
-![Kalpesh's GitHub Repo]( https://github-readme-stats.vercel.app/api/pin/?username=kalpesh521&repo=GrowGreen-Web-Application&cache_seconds=86400&theme=jolly)
-![Kalpesh's GitHub Repo]( https://github-readme-stats.vercel.app/api/pin/?username=kalpesh521&repo=Olist-Store-Ecommerce-Data-Engineering-Project&cache_seconds=86400&theme=jolly)
-![Kalpesh's GitHub Repo]( https://github-readme-stats.vercel.app/api/pin/?username=kalpesh521&repo=Competitive-Programming&cache_seconds=86400&theme=jolly)
-![Kalpesh's GitHub Repo]( https://github-readme-stats.vercel.app/api/pin/?username=kalpesh521&repo=VoteZ&cache_seconds=86400&theme=jolly)
+<a href="https://github.com/kalpesh521/GrowGreen-Web-Application">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalpesh521&repo=GrowGreen-Web-Application&cache_seconds=86400&theme=jolly" alt="Kalpesh's GitHub Repo">
+</a>
 
+<a href="https://github.com/kalpesh521/Olist-Store-Ecommerce-Data-Engineering-Project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalpesh521&repo=Olist-Store-Ecommerce-Data-Engineering-Project&cache_seconds=86400&theme=jolly" alt="Kalpesh's GitHub Repo">
+</a>
+
+<a href="https://github.com/kalpesh521/Competitive-Programming">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kalpesh521&repo=Competitive-Programming&cache_seconds=86400&theme=jolly" alt="Kalpesh's GitHub Repo">
+</a>
+
+<a href="https://github.com/kalpesh521/VoteZ">
+        <img src= "https://github-readme-stats.vercel.app/api/pin/?username=kalpesh521&repo=VoteZ&cache_seconds=86400&theme=jolly" alt="Kalpesh's GitHub Repo">
+</a>
 
 ![](https://komarev.com/ghpvc/?username=kalpesh521&style=for-the-badge)
 
