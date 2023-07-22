@@ -9,7 +9,7 @@
 
 
 <div align="center" style="margin-left:"800px">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&center=true&width=435&lines=Cloud+Enthusiast;Big+Data+Enthusiast;Web+Developer" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=F7BC4C&center=true&width=435&lines=Cloud+Enthusiast;Big+Data+Enthusiast;Web+Developer" alt="Typing SVG" /></a>
      <br>
 </div>
 
@@ -46,9 +46,15 @@
 |---|---|
 
 ---
+## Recent Projects
 
- 
+![Kalpesh's GitHub Repo]( https://github-readme-stats.vercel.app/api/pin/?username=kalpesh521&repo=GrowGreen-Web-Application&cache_seconds=86400&theme=jolly)
+![Kalpesh's GitHub Repo]( https://github-readme-stats.vercel.app/api/pin/?username=kalpesh521&repo=Olist-Store-Ecommerce-Data-Engineering-Project&cache_seconds=86400&theme=jolly)
+![Kalpesh's GitHub Repo]( https://github-readme-stats.vercel.app/api/pin/?username=kalpesh521&repo=Competitive-Programming&cache_seconds=86400&theme=jolly)
+![Kalpesh's GitHub Repo]( https://github-readme-stats.vercel.app/api/pin/?username=kalpesh521&repo=VoteZ&cache_seconds=86400&theme=jolly)
+
 
 ![](https://komarev.com/ghpvc/?username=kalpesh521&style=for-the-badge)
- 
+
+---
  
