@@ -31,7 +31,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=azure,aws&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css,django,bootstrap)](https://skillicons.dev) 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,firebase,vscode,idea,linux)](https://skillicons.dev)
 
 
 ---
